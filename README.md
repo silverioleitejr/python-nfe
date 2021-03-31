@@ -1,2 +1,2 @@
 # python-nfe
-tratamento de arquivos XML NFe
+Projeto de tratamento de arquivos XML NFe
